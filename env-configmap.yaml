@@ -1,4 +1,4 @@
-export POSTGRES_HOST=database-1.cl6jwcvigsec.us-east-1.rds.amazonaws.com
+export POSTGRES_HOST=database-1.cnvasardsmhr.us-east-1.rds.amazonaws.com
 export POSTGRES_DB=udagramdevdb
 export AWS_BUCKET=image-test-dev
 export AWS_REGION=us-east-1
